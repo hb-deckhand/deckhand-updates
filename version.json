@@ -1,1 +1,1 @@
-{"version": "1.1.114", "notes": "Light mode: accent color (legend titles, focus/hover highlights, brand wordmark) is now navy #21255F. Update check now bypasses the GitHub CDN cache so new releases are detected immediately instead of falsely showing up-to-date."}
+{"version": "1.1.116", "notes": "Section titles now sit above the panel border instead of intersecting it, and the home-page dark/light toggle is vertically centered with the title text."}
