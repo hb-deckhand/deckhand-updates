@@ -1,1 +1,1 @@
-{"version": "1.1.112", "notes": "Added a dark/light mode toggle to the top-right of the home page. Light mode uses a lighter gray background with black text; the choice is remembered between launches."}
+{"version": "1.1.113", "notes": "Light mode: section (panel) backgrounds are now a solid #6E6E6E."}
