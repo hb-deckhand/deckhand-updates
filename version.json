@@ -1,1 +1,1 @@
-{"version": "1.1.117", "notes": "Prep output no longer nests runs inside a per-sequence folder. Default layout is now <Output>/<SequenceName>_prep_<stamp>/<Color|Finish|Audio>/ instead of <Output>/<SequenceName>/<SequenceName>_prep_<stamp>/..."}
+{"version": "1.1.118", "notes": "Prep and Deliver run folders now include the zero-padded date: <Name>_prep_<MMDD>_<stamp>/ and <Name>_deliver_<MMDD>_<stamp>/ (e.g. 0805)."}
