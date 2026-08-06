@@ -1,1 +1,1 @@
-{"version": "1.1.113", "notes": "Light mode: section (panel) backgrounds are now a solid #6E6E6E."}
+{"version": "1.1.114", "notes": "Light mode: accent color (legend titles, focus/hover highlights, brand wordmark) is now navy #21255F. Update check now bypasses the GitHub CDN cache so new releases are detected immediately instead of falsely showing up-to-date."}
