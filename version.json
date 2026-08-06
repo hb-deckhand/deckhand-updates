@@ -1,1 +1,1 @@
-{"version": "1.1.118", "notes": "Prep and Deliver run folders now include the zero-padded date: <Name>_prep_<MMDD>_<stamp>/ and <Name>_deliver_<MMDD>_<stamp>/ (e.g. 0805)."}
+{"version": "1.1.119", "notes": "Section titles lifted fully clear of the panel border; What's New list updated."}
