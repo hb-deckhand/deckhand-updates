@@ -1,1 +1,1 @@
-{"version": "1.3.3", "notes": "Deckhand 1.3.3. EDLs are now always non-drop-frame, use the full source file name as the reel name, and write gaps as black (BL) events."}
+{"version": "1.3.4", "notes": "Deckhand 1.3.4. EDL source timecode now reads each clip's real embedded start timecode. Reel column back to 8-character names. Gaps are no longer written as black (BL) events. New Developer tool: Source Timecode Probe."}
