@@ -1,1 +1,1 @@
-{"version": "1.3.11", "notes": "Deckhand 1.3.11. Voice Over model picker now asks ElevenLabs which speech models exist instead of using a fixed list, so new models appear automatically."}
+{"version": "1.3.12", "notes": "Deckhand 1.3.12. Light mode background is lighter (closer to white)."}
