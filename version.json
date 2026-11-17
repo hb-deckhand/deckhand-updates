@@ -1,1 +1,1 @@
-{"version": "1.5.0", "notes": "Deckhand 1.5: new Motion Graphics page (Content Field, Patchwork Snap Zoom, Phone Rig) that designs in the panel and builds in After Effects. Light mode buttons are gray with black text and turn blue on rollover; dark mode blue nudged toward light blue."}
+{"version": "1.5.49", "notes": "Deckhand 1.5.49: audio effects in Edit, Pro Sound Effects, per-tool audio settings, Motion Graphics dynamic link round trip, number counter, Slate Mapper checkbox list, Misc slate line, 2-pop Prep option. API keys now live in each tool's settings window."}
